@@ -138,3 +138,18 @@ footer h3 {
         padding: 1rem 3rem;
     }
 }
+.btn-top {
+    background-image: url(https://i.pinimg.com/originals/4f/b6/6d/4fb66d13a318141fc8a1d5b6cd7d8468.png);
+    background-repeat: no-repeat;
+    border: medium none;
+    bottom: 20px;
+    cursor: pointer;
+    display: none;
+    height: 50px;
+    outline: medium none;
+    padding: 0;
+    position: fixed;
+    right: 20px;
+    width: 50px;
+    z-index: 9999;
+}
